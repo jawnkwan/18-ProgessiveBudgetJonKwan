@@ -50,7 +50,7 @@ npm i
 
 If you have any questions, please contact me at the following!!
 
- <img src="https://avatars1.githubusercontent.com/u/62856193?v=4" width="100">
+ <img src="https://avatars3.githubusercontent.com/u/24719363?s=460&u=c25eaef99d167bfb57daed7d70d12667d356f0f7&v=4" width="100">
   
  Email: iamjonkwan@gmail.com
 ## License
