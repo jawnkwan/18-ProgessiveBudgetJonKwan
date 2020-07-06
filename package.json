@@ -1,0 +1,26 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "This application helps users add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawnkwan/18-ProgessiveBudgetJonKwan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawnkwan/18-ProgessiveBudgetJonKwan/issues"
+  },
+  "homepage": "https://github.com/jawnkwan/18-ProgessiveBudgetJonKwan#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.5.4",
+    "mongoose": "^5.9.21",
+    "morgan": "^1.10.0"
+  }
+}
